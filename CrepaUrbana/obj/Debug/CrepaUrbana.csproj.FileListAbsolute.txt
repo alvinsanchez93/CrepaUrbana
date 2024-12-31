@@ -1,0 +1,17 @@
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\CrepaUrbana.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\MainWindow.g.cs
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\Views\ProductosView.g.cs
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\App.g.cs
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\CrepaUrbana_MarkupCompile.cache
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\CrepaUrbana_MarkupCompile.lref
+C:\Users\alvin\source\repos\CrepaUrbana\bin\Debug\CrepaUrbana.exe.config
+C:\Users\alvin\source\repos\CrepaUrbana\bin\Debug\CrepaUrbana.exe
+C:\Users\alvin\source\repos\CrepaUrbana\bin\Debug\CrepaUrbana.pdb
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\MainWindow.baml
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\Views\ProductosView.baml
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\CrepaUrbana.g.resources
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\CrepaUrbana.Properties.Resources.resources
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\CrepaUrbana.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\CrepaUrbana.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\CrepaUrbana.exe
+C:\Users\alvin\source\repos\CrepaUrbana\obj\Debug\CrepaUrbana.pdb
